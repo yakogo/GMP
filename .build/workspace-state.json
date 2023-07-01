@@ -1,0 +1,24 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "gmt-ios-binary",
+          "kind" : "root",
+          "location" : "/Users/k550500/Downloads/GMP-binary/gmt-ios-binary",
+          "name" : "gmt-ios-binary"
+        },
+        "path" : "/Users/k550500/Downloads/GMP-binary/gmt-ios-binary/GMP.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "GMP"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}
